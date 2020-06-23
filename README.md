@@ -10,6 +10,3 @@ Describing Myself about my Skills , Projects , Education , Certificates , Intere
 <img src = "https://github.com/vManav123/Portfolio/blob/master/Images%20of%20Portfolio/Screenshot%20(64).png" width = "950" > <img src = "https://github.com/vManav123/Portfolio/blob/master/Images%20of%20Portfolio/Screenshot%20(65).png" width = "950" >
 <img src = "https://github.com/vManav123/Portfolio/blob/master/Images%20of%20Portfolio/Screenshot%20(66).png" width = "950" > <img src = "https://github.com/vManav123/Portfolio/blob/master/Images%20of%20Portfolio/Screenshot%20(67).png" width = "950" >
 <img src = "https://github.com/vManav123/Portfolio/blob/master/Images%20of%20Portfolio/Screenshot%20(68).png" width = "950" > <img src = "https://github.com/vManav123/Portfolio/blob/master/Images%20of%20Portfolio/Screenshot%20(69).png" width = "950" >
-<img src = "https://github.com/vManav123/Portfolio/blob/master/Images%20of%20Portfolio/Screenshot%20(70).png" width = "950" >
-<img src = "https://github.com/vManav123/Portfolio/blob/master/Images%20of%20Portfolio/Screenshot%20(71).png" width = "950" >
-<img src = "https://github.com/vManav123/Portfolio/blob/master/Images%20of%20Portfolio/Screenshot%20(72).png" width = "950" >
